@@ -2,6 +2,7 @@
 
 @section('content')
 @include('components.carousel')
+@include('components.about')
 
   {{-- @include('partials.page-header')
   @if (! have_posts())
