@@ -3,6 +3,8 @@
 @section('content')
 @include('components.carousel')
 @include('components.about')
+@include('components.factors')
+@include('components.types')
 
   {{-- @include('partials.page-header')
   @if (! have_posts())
