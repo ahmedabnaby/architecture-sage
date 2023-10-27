@@ -5,6 +5,7 @@
 @include('components.about')
 @include('components.factors')
 @include('components.types')
+@include('components.features')
 
   {{-- @include('partials.page-header')
   @if (! have_posts())
